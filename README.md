@@ -1,4 +1,4 @@
 # hello-world
 
-I'm experiencing the power of Github,
+I'm exploring the features of GitHub,
 but I would rather continue watching Maniac on Netflix.
